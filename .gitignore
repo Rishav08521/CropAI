@@ -3,17 +3,14 @@ __pycache__/
 *.pyc
 .venv/
 .env
-
-# Node / React Native
+# React Native / Expo
 smartag-mobile/node_modules/
 smartag-mobile/.expo/
 smartag-mobile/dist/
-
 # Data & large artifacts
 leaf_dataset/
 uploads/
 *.h5
-
 # OS/IDE
 .DS_Store
 .vscode/
