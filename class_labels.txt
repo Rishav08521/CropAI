@@ -1,0 +1,11 @@
+Apple___Apple_scab
+Apple___Black_rot
+Apple___Healthy
+Corn___Common_rust
+Corn___Gray_leaf_spot
+Potato___Early_blight
+Potato___Healthy
+Potato___Late_blight
+Tomato___Early_blight
+Tomato___Healthy
+Tomato___Late_blight

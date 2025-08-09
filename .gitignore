@@ -1,0 +1,19 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node / React Native
+smartag-mobile/node_modules/
+smartag-mobile/.expo/
+smartag-mobile/dist/
+
+# Data & large artifacts
+leaf_dataset/
+uploads/
+*.h5
+
+# OS/IDE
+.DS_Store
+.vscode/
